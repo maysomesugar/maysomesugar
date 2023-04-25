@@ -1,4 +1,4 @@
 - 👋 Hi, I’m maysomesugar
-- 👀 I’m android developer on flutter
-- 🌱 I’m currently learning dart, flutter
+- 👀 I’m backend developer and mobile developer on flutter
+- 🌱 I’m currently learning dart, flutter, nestjs, django
 - 📫 How to reach me: inst - maysomesugar
